@@ -1,4 +1,4 @@
-# EK301
+# EK301 MATLAB CODE
 
 This code was written to analyze bridge designs in my Statics class. 
 
